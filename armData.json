@@ -14,7 +14,8 @@
         "minhp": "63", 
         "type": "music", 
         "hp": "250", 
-        "maxlv": 150
+        "maxlv": 150,
+        "en": "True Judgement Lyre" 
     }, 
     "真・裁考天の鳴弦": {
         "hplv100": "219", 
