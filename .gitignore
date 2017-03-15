@@ -1,6 +1,6 @@
 build/.module-cache
 node_modules
-imgs/*.png
+
 charaimgs/*.png
 otherImages
 utils.php
