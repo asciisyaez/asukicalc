@@ -31,7 +31,7 @@ var SendRequest = React.createClass({
             }
 
             $.ajax({
-                url: "https://api.github.com/repos/hoshimi/motocal/issues/" + this.props.issueNumber + "/comments",
+                url: "https://api.github.com/repos/asciisyaez/asukicalc/issues/" + this.props.issueNumber + "/comments",
                 type: 'post',
                 data: JSON.stringify(sendData),
                 beforeSend: function(xhr) {
@@ -66,7 +66,7 @@ var SendRequest = React.createClass({
 
         return (
             <div className="sendRequestForm">
-                <p> <a href="https://github.com/hoshimi/motocal"> github.com / motocal </a> </p>
+                <p> <a href="https://github.com/asciisyaez/asukicalc"> github.com / asukicalc </a> </p>
                 <p>{intl.translate("要望送信メッセージ", locale)}</p>
                 <table className="table table-bordered">
                     <tbody>
