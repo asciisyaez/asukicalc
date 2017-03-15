@@ -14,13 +14,12 @@
         "minhp": "63", 
         "type": "music", 
         "hp": "250", 
-        "maxlv": 150,
-        "en": "True Judgement Lyre" 
+        "maxlv": 150
     }, 
-    "真・裁考天の鳴弦": {
+    "True Judgement Lyre": {
         "hplv100": "219", 
         "element2": "earth", 
-        "name": "真・裁考天の鳴弦", 
+        "name": "True Judgement Lyre", 
         "imageURL": "./imgs/1040805800.png", 
         "skill2": "non", 
         "skill1": "strengthLL", 
